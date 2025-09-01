@@ -16,7 +16,7 @@ export default function HomeScreen() {
       <ThemedText type="subtitle" style={styles.subtitle}>
         Tu app se actualiza automáticamente en tu celular 📱
       </ThemedText>
-      <Button title="Tócame 😄" onPress={handlePress} />
+      <Button title="o yeah 😄" onPress={handlePress} />
     </ThemedView>
   );
 }
