@@ -33,7 +33,7 @@ export default function HomeScreen() {
       <ThemedText type="subtitle" style={styles.subtitle}>
         Tu app se actualiza automáticamente en tu celular 📱
       </ThemedText>
-      <Button title="o Este es un estilo 😄" onPress={handlePress} />
+      <Button title="o Cambioooo estilo 😄" onPress={handlePress} />
       {/* Botón de ejemplo para enviar mensaje a n8n/Discord */}
       <Button title="Enviar a Discord (n8n)" onPress={sendToN8n} />
     </ThemedView>
