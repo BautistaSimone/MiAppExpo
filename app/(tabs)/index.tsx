@@ -19,7 +19,7 @@ export default function HomeScreen() {
           action: 'pressed_button',
         }),
       });
-      Alert.alert('✅ Mensaje enviado a n8n');
+      Alert.alert('✅ Mensaje dasdasdas a n8n');
     } catch (err) {
       Alert.alert('❌ Error al conectar con n8n:', String(err));
     }
